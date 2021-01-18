@@ -17,8 +17,6 @@ class LinkedList {
 	~LinkedList() {}
 	void insertLast(int k);
 	void traverse();
-	
-	private:
 	Node *head;
 };
 
